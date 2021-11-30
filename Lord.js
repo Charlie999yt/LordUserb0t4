@@ -117,7 +117,7 @@ let numbernye = "0"
 let simbolnya = "•"
 let petik = '```'
 let enter = '\n'
-let notnot = `NOTE:${enter}Jika whatsapp mod kamu belum support button silahkan tonton video ini https://youtu.be/ERGID4Fmo9w`
+let notnot = `NOTE:${enter}subscribe my channel https://youtube.com/c/CHARLIE999`
 let url_gif = setting.url_gif
 let public_mode = setting. public_mode
 let mlistmsg = false 
@@ -439,22 +439,22 @@ var waktoo = date.getHours();
 				mess = {
 					wait: 'Proses Lord..',
 					limit: 'Limit kamu habis lord , Silahkan beli dengan #buylimit <nominal> atau minta gift dari user lain',
-					sewabot: ` 「 *SEWA BOT* 」 \n\nBerikut list sewa bot kami
+					sewabot: ` 「 *SEWA BOT* 」 \n\nNext list sewa bot kami
 
-•> 25k / BULAN (PREMIUM)
-Isi sendiri
+•> 25k / MONTH (PREMIUM)
+Isi alone
 
 Minat? Pm wa.me/${owner_number}`,
-					ban: 'Maaf Lord Nomor Kamu Sudah Di Banned!',
-					error: 'Error Lord, Mungkin Lagi Diperbaiki',
-					errorLink: 'Link Error Lord',
-					succes: '```[ ✓ ]``` Sukses Lord',
+					ban: 'sorry bro you are banned contact wa.me/+919556416715',
+					error: 'Error',
+					errorLink: 'Link Error',
+					succes: '```[ ✓ ]``` Sukses by bot',
 					only: {
-						personal: 'Only Private Chat Lord',
-						admin: 'Khusus Admin Group Lord',
-						group: 'Khusus Dalam Grup Lord',
-						 prem: 'Khusus User Premium Lord',
-						owner: 'Khusus Owner Bot Lord',
+						personal: 'Only Private Chat bot',
+						admin: 'must be Admin Group bot',
+						group: 'must In Grup bot',
+						 prem: 'must User Premium bot',
+						owner: 'must Owner Bot',
 						 }
 					} 
 	    const ftroli ={key: {fromMe: false,"participant":"0@s.whatsapp.net",   "remoteJid": "6289523258649-1604595598@g.us"  }, "message": {orderMessage: {itemCount: 2021,status: 200, thumbnail: thumbnail, surface: 200, message: `「 𝐑𝐔𝐍𝐓𝐈𝐌𝐄 」\n${runtime2}`, orderTitle: 'zeeoneofc', sellerJid: '0@s.whatsapp.net'}}, sendEphemeral: true}
